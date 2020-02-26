@@ -303,7 +303,7 @@ CREATE TABLE `user` (
 INSERT INTO `user` (`id`, `nama`, `username`, `password`, `status`) VALUES
 (1, 'SEKO-NOL', 'Admin', '2017', 'Admin'),
 (2, 'Ibu Guru', 'Guru', '2017', 'Guru'),
-(3, 'Ivan Ryansyach', 'Ivan', '2017', 'Siswa');
+(3, 'Ivnr', 'Ivan', '2017', 'Siswa');
 
 --
 -- Indexes for dumped tables
