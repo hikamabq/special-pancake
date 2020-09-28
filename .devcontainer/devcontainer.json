@@ -17,8 +17,8 @@
 			"previewLimit": 50,
 			"port": 3306,
 			"database": "seko_nol",
-			"username": "root",
-			"password": ""
+			"username": "mysql",
+			"password": "secret"
 		}]
 	},
 

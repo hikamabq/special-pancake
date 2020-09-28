@@ -1,7 +1,7 @@
 <?php
 
 function conn(){
-	$link=mysqli_connect("localhost","root","","seko_nol") or die ("Connection Failed!");
+	$link=mysqli_connect("localhost","mysql","secret","seko_nol") or die ("Connection Failed!");
 	return $link;
 }
 

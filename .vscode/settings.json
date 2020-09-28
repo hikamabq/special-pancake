@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "name": "Container database",
+            "driver": "MariaDB",
+            "server": "localhost",
+            "previewLimit": 50,
+            "port": 3306,
+            "database": "seko_nol",
+            "username": "mysql",
+            "password": "secret"
+        }
+    ]
+}
