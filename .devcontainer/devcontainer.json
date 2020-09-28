@@ -16,9 +16,9 @@
 			"server": "localhost",
 			"previewLimit": 50,
 			"port": 3306,
-			"database": "mariadb",
+			"database": "seko_nol",
 			"username": "root",
-			"password": "mariadb"
+			"password": ""
 		}]
 	},
 

@@ -36,10 +36,10 @@ services:
     volumes:
       - mariadb-data:/var/lib/mysql
     environment:
-      MYSQL_ROOT_PASSWORD: mariadb
-      MYSQL_DATABASE: mariadb
-      MYSQL_USER: mariadb
-      MYSQL_PASSWORD: mariadb
+      MYSQL_ROOT_PASSWORD: ""
+      MYSQL_DATABASE: seko_nol
+      MYSQL_USER: root
+      MYSQL_PASSWORD: ""
 
     # Add "forwardPorts": ["3306"] to **devcontainer.json** to forward MongoDB locally.
     # (Adding the "ports" property to this file will not forward from a Codespace.)
